@@ -20,4 +20,11 @@ Currently based on Fedora KDE Plasma + Wayland.
 - **Konsole**
   - Gruvbox Material Medium Dark
   - Custom profile
+  
+## Wallpaper
 
+The included wallpaper is from the COSMIC desktop environment.
+
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+The wallpaper is not my original work and remains licensed under its original license.
