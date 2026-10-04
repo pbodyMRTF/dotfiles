@@ -1,0 +1,48 @@
+# =========================
+# Zsh
+# =========================
+.zsh_history
+.zsh_sessions/
+
+# =========================
+# Neovim
+# =========================
+nvim/.cache/
+nvim/.local/
+nvim/.vim/
+
+# Swap / backup files
+*.swp
+*.swo
+*.swn
+*~
+
+# =========================
+# JetBrains / IntelliJ / CLion
+# =========================
+.idea/
+*.iml
+
+# =========================
+# Build output
+# =========================
+build/
+cmake-build-*/
+out/
+bin/
+obj/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# =========================
+# General
+# =========================
+.DS_Store
+Thumbs.db
